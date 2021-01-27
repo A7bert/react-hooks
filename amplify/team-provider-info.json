@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reacttodos-dev-134356-authRole",
+      "UnauthRoleArn": "arn:aws:iam::319297806190:role/amplify-reacttodos-dev-134356-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::319297806190:role/amplify-reacttodos-dev-134356-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reacttodos-dev-134356-deployment",
+      "UnauthRoleName": "amplify-reacttodos-dev-134356-unauthRole",
+      "StackName": "amplify-reacttodos-dev-134356",
+      "StackId": "arn:aws:cloudformation:us-east-1:319297806190:stack/amplify-reacttodos-dev-134356/bff85490-6038-11eb-8002-0e765a9edd1f",
+      "AmplifyAppId": "d3eij07r5f2nsu"
+    },
+    "categories": {
+      "function": {
+        "reacttodosa8bbc762CustomMessage": {
+          "REDIRECTURL": "https://aws.amazon.com/",
+          "EMAILSUBJECT": "Confirmation",
+          "EMAILMESSAGE": "Confirm..."
+        }
+      },
+      "auth": {
+        "reacttodosa8bbc762": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "trigger": true,
+  "modules": [
+    "verification-link"
+  ],
+  "parentResource": "reacttodosa8bbc762",
+  "functionName": "reacttodosa8bbc762CustomMessage",
+  "resourceName": "reacttodosa8bbc762CustomMessage",
+  "parentStack": "auth",
+  "triggerEnvs": [
+    {
+      "key": "RESOURCENAME",
+      "value": "resourceName"
+    }
+  ],
+  "triggerDir": "/snapshot/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/CustomMessage",
+  "triggerTemplate": "CustomMessage.json.ejs",
+  "roleName": "reacttodosa8bbc762CustomMessage",
+  "skipEdit": true,
+  "REDIRECTURL": "https://aws.amazon.com/",
+  "EMAILSUBJECT": "Confirmation",
+  "EMAILMESSAGE": "Confirm...",
+  "RESOURCENAME": "resourceName",
+  "enableCors": false
+}
